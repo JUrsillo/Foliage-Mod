@@ -1,0 +1,6 @@
+{
+  "parent": "flowermod:block/cross",
+  "textures": {
+    "cross": "flowermod:block/poison_flower"
+  }
+}

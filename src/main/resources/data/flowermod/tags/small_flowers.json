@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "flowermod:poison_flower",
+    "flowermod:fire_flower",
+    "flowermod:warp_flower",
+    "flowermod:nullifying_flower"
+
+  ]
+}
